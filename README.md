@@ -1,4 +1,4 @@
-### python project
+### ViT YOLO
 <br>
 
 > Attention: this repository only used to load the course work.
@@ -6,7 +6,7 @@
 
 <br>
 
-### My work
+### What modified
 - *src*
   contains the source code.
   and many of it are useless, the useful are under the folader `api` and `data_strong`.
